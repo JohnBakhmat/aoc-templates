@@ -1,4 +1,4 @@
-f = open('../input.1.txt', 'r')
+f = open('../input.2.txt', 'r')
 text = f.read()
 f.close()
 
